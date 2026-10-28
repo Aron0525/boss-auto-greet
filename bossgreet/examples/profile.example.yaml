@@ -1,0 +1,20 @@
+# 空白个人档案。只填写自己真实且愿意发送给招聘方的信息。
+# 文件复制为 profile.yaml 后留在本机；请勿提交到公开仓库。
+basic:
+  name: ""
+  education: ""
+  school: ""
+  city: ""
+  availability: ""
+
+# 不填写也能预览通用话术；自定义消息发送前请逐条核对。
+positioning:
+  embedded_sw: ""
+  embedded_hw: ""
+  mcu: ""
+  test_fae: ""
+  iot: ""
+  general: ""
+projects: []
+skills: []
+traits: []

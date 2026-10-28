@@ -1,0 +1,41 @@
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Local credentials, configuration, and private profile
+.env
+.env.*
+!.env.example
+config.yaml
+profile.yaml
+templates.yaml
+*secret*
+*token*
+*cookie*
+
+# Local job data, contact history, reports, and diagnostics
+*.json
+*.jsonl
+*.log
+*.png
+*.jpg
+*.jpeg
+*.webp
+shots/
+shots_*/
+reports/
+投递清单*.md
+投递清单*.html
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
